@@ -23,7 +23,7 @@ Part of the core development team for the community Gothic 2 Multiplayer Mod.
 - Maintaining old [Squirrel](https://gitlab.com/GothicMultiplayerTeam/dependencies/squirrel) language with [SqRat](https://gitlab.com/GothicMultiplayerTeam/dependencies/sqrat) C++ binding utilities.
 - Writing documentation for the exposed scripting API.
 
-### 🌐 CEF (TBA)
+### 🌐 [CEF](https://g2o.gitlab.io/modules/cef/)
 TBA Chromium Embedded Framework integrated into a Gothic 2 Online module allowing to write game UI in any web technology supported by chromium.
 - Async Squirrel to JavaScript communication and vice versa.
 - Offscreen rendering to engine texture format.
